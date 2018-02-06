@@ -1,5 +1,5 @@
 //const restful = require('node-restful')
-const mongoose = resultful.mongoose
+const mongoose = require('mongoose')
 
 
 const peoplePhysicalSchema = new mongoose.Schema({
